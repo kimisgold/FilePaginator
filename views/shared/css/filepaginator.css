@@ -1,0 +1,8 @@
+#file-show-pagination ul.navigation {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+}
